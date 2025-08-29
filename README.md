@@ -15,6 +15,9 @@ This App is created for job seekers to test whether their resumes are ATS friend
 #### Features: 
 Ability to extract specific information from resumes, the use of JSON format for presenting the extracted data, and the integration of various libraries and tools for parsing resumes.
 
+<img width="1882" height="845" alt="Screenshot 2025-08-29 144407" src="https://github.com/user-attachments/assets/846148de-ebef-40a4-8f16-6ebf8b01ac75" />
+
+
 #### Installation: 
 Run the pip install requirements.txt to install and set up the app, including any dependencies and prerequisites.
 
